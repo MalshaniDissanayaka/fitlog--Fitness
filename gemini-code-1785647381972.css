@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f6f9;
+  color: #333;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+nav a:hover {
+  opacity: 0.8;
+}
+
+button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
